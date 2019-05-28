@@ -4,6 +4,6 @@
 ### 策划
 Freya、Prinny 凌霄、Rattar
 ### 美术
-伟哥、Freya、Rattar
+Nobody、Freya、Rattar
 ### 程序
 Prinny 凌霄、Rattar
